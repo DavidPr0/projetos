@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cce38b8-dde3-434b-a384-048a71f94157" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/projetos/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/HTML/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projetos/HTML/index.html">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projetos/CSS3-basico/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -48,6 +48,7 @@
       <list>
         <option value="$PROJECT_DIR$/projetos/CSS3-basico/estilo-texto.html" />
         <option value="$PROJECT_DIR$/projetos/HTML/index.html" />
+        <option value="$PROJECT_DIR$/projetos/CSS3-basico/.gitignore" />
       </list>
     </option>
   </component>
@@ -131,12 +132,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532658504900</updated>
-      <workItem from="1532658507140" duration="170000" />
+      <workItem from="1532658507140" duration="427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170000" />
+    <option name="totallyTimeSpent" value="427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1448" y="-138" width="1456" height="876" extended-state="6" />
@@ -170,6 +171,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projetos/HTML/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projetos/CSS3-basico/estilo-texto.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -177,10 +185,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetos/HTML/index.html">
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-basico/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
