@@ -1,0 +1,31 @@
+/**
+Modelo Caixa
+
+.conteudo{
+    border: 1px solid red;
+    /*padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+    padding: 20px 15px 10px 5px;
+    padding: 20px;
+    margin: 20px;
+
+    width: 150px;
+}
+    */
+.conteudo{
+    background: blue;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.conteudo1{
+    background: blue;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+
+}
