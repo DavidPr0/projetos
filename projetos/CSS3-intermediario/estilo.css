@@ -23,9 +23,9 @@ Modelo Caixa
     float: left;
 }
 .conteudo1{
-    background: blue;
-    border: 1px solid gray;
-    width: 150px;
-    height: 150px;
+    background:blue;
+    border:1px    solid gray;
+    width:150px;
+    height:150px;
 
 }

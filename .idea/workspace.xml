@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cce38b8-dde3-434b-a384-048a71f94157" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/assets/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/assets/css/estilo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/assets/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/assets/css/estilo.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,24 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/assets/css/estilo.css">
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/assets/css/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+            <state relative-caret-position="560">
+              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -72,6 +67,9 @@
         <option value="$PROJECT_DIR$/projetos/CSS3-intermediario/links.html" />
         <option value="$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/assets/css/estilo.css" />
         <option value="$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/index.html" />
+        <option value="$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/index.php" />
+        <option value="$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/index.html" />
+        <option value="$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/assets/css/estilo.css" />
       </list>
     </option>
   </component>
@@ -84,9 +82,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-727" />
-    <option name="y" value="-130" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1448" />
+    <option name="y" value="-138" />
     <option name="width" value="734" />
     <option name="height" value="867" />
   </component>
@@ -95,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,29 +116,29 @@
               <item name="udemy18.com.br" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy18.com.br" type="462c0819:PsiDirectoryNode" />
               <item name="projetos" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS3-intermediario" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS3-Intermediario-avancado" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy18.com.br" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy18.com.br" type="462c0819:PsiDirectoryNode" />
               <item name="projetos" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS3-intermediario" type="462c0819:PsiDirectoryNode" />
-              <item name="TecBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS3-Intermediario-avancado" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu-vertical" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy18.com.br" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy18.com.br" type="462c0819:PsiDirectoryNode" />
               <item name="projetos" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS3-intermediario" type="462c0819:PsiDirectoryNode" />
-              <item name="TecBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS3-Intermediario-avancado" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu-vertical" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udemy18.com.br" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy18.com.br" type="462c0819:PsiDirectoryNode" />
               <item name="projetos" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS3-intermediario" type="462c0819:PsiDirectoryNode" />
-              <item name="TecBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS3-Intermediario-avancado" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu-vertical" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -147,7 +146,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,18 +181,19 @@
       <workItem from="1532658507140" duration="3764000" />
       <workItem from="1532734580746" duration="15880000" />
       <workItem from="1532904689259" duration="6915000" />
-      <workItem from="1533002699860" duration="746000" />
+      <workItem from="1533002699860" duration="747000" />
+      <workItem from="1533087435313" duration="5007000" />
+      <workItem from="1533172955470" duration="2432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27305000" />
+    <option name="totallyTimeSpent" value="34745000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-727" y="-130" width="734" height="867" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1448" y="-138" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" weight="0.26462397" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13194445" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
@@ -214,27 +213,6 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="6" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26462397" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Run" order="7" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info id="Favorites" order="0" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -243,14 +221,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/assets/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/assets/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="66" column="34" lean-forward="true" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -265,10 +267,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -420,21 +418,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/assets/css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
+        <state relative-caret-position="670">
           <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projetos/CSS3-intermediario/TecBlog/index.html">
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/index.php" />
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projetos/CSS3-Intermediario-avancado/Menu-vertical/assets/css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
         </state>
       </provider>
     </entry>
