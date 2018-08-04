@@ -1,0 +1,153 @@
+/* Estrutura do site*/
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #fff url('../img/fundo.png') repeat-x;
+}
+#container{
+	width: 750px;
+	margin: 0 auto;
+}
+#topo{
+	height: 150px;
+	background: url('../img/detalhe-topo.png') no-repeat right top;
+	padding-top: 25px;
+}
+.logo{
+	width: 152px;
+	height: 66px;
+	background: url('../img/logo.png') no-repeat center;
+	text-indent: -3000px;
+}
+/* Barra de Navegação*/
+ul{
+	margin: 0;
+	list-style: none;
+	padding: 0;
+}
+#topo ul{
+	margin-top: 30px;
+	background: #b10333;
+	float: left;
+}
+#topo ul li{
+	float: left;
+}
+#topo ul a{
+	font-size: 0.9em;
+	display: block;
+	padding: 0.5em 1.5em;
+	line-height: 2.1em;
+	text-decoration: none;
+	color: #fff;
+	background: url('../img/divisor.png') no-repeat left center;
+}
+#topo ul .primeiro a{
+	background: none;
+}
+#topo ul a:hover{
+	color: #69001d;
+}
+body.home #navegacao a#home
+body.brasil #navegacao a#brasil
+body.internacional #navegacao a#internacional
+body.saude #navegacao a#saude
+body.ciencia #navegacao a#ciencia
+body.economia #navegacao a#economia
+body.fotos #navegacao a#fotos
+{
+	color: #fff;
+	background: #de003e;
+	cursor: text;
+}
+/* Configuração layout de três colunas*/
+
+#conteudo{
+	margin-top: 60px;
+	background: #f5f5f5;
+}
+#lateral{
+	width: 180px;
+	float: left;
+	margin: 0 0 20px -750px;
+}
+#primario{
+	width: 270px;
+	float: left;
+	margin: 0 0 20px 195px;
+}
+#duas-colunas #primario{
+	width: 555px;
+}
+#uma-coluna #primario{
+	width: 750px;
+	margin: 0 0 20px 0;
+}
+#secundario{
+	width: 270px;
+	float: left;
+	margin: 0 0 20px 15px;
+}
+/* Caixa */
+.caixa{
+	margin: 10px 0;
+	padding: 5px;
+	background: #f3f3f3 url('../img/fundo-caixa.png');
+}
+h2{
+	font-size: 1em;
+	background: #294c71;
+	color: #fff;
+	padding: 5px;
+}
+.caixa-conteudo{
+	background: #fff;
+	padding: 5px;
+	margin-top: 5px;
+}
+/* Formatando menus laterais */
+#lateral ul a{
+	font-size: 0.9em;
+	padding: 3px;
+	display: block;
+	line-height: 30px;
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px solid #f3f3f3;
+}
+#lateral ul a:hover{
+	background: #f9f9f9 url('../img/marcador.png') no-repeat left center;
+	padding-left: 20px;
+	color: #a1a1a1;
+}
+/* Formatando formulários */
+label{
+	display: block;
+	cursor: pointer;
+}
+input{
+	padding: 5px;
+	width: 125px;
+	font-size: 0.9em;
+	background: #fff;
+}
+input.submit{
+	width: 80px;
+	color: #fff;
+	background-color: #b10333;
+	border: 2px solid #870529;
+}
+/* Rodapé */
+#container-rodape{
+	background: #294c71;
+	padding: 20px;
+}
+#rodape{
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+	color: #fff;
+}
