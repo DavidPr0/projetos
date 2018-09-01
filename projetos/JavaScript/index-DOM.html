@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JavaScript - Eventos Mouse</title>
+	<style>
+		.estilo1{
+			background: #ff0000;
+			color: #fff;
+
+		}
+		.estilo2{
+			width: 400px;
+			height: 50px;
+			background: #ff0000;
+			text-align: center;
+			font-size: 25px;
+			color: #fff;
+			padding: 25px;
+		}
+	</style>
+	<script>
+		// Manipulando estilo
+		// function modificaEstilo(corDeFundo, l, a){
+		// 	document.getElementById('quadrado').style.background = corDeFundo
+		// 	document.getElementById('quadrado').style.width  = l
+		// 	document.getElementById('quadrado').style.height = a
+		// }
+
+		// Trocando Classe
+		function modificaClasse(){
+			document.getElementById('mensagem').className  = 'estilo2'
+
+			}
+
+	</script>
+
+</head>
+<body>
+	<!-- Manipulando estilo Início -->
+	<!-- <h3>Manipulando estilo</h3>
+
+	<button type="button" onclick="modificaEstilo('#ff0000', '200px')">Vermelho</button>
+	<button type="button" onclick="modificaEstilo('#00ff00', '150px', '20px')">Verde</button>
+	<button type="button" onclick="modificaEstilo('#0000ff', '150px', '200px')">Azul</button>
+
+	<hr>
+	<div style="border: solid 1px #000; width: 100px; height: 100px" id="quadrado"></div> -->
+	<!-- Manipulando estilo Fim -->
+	
+	<!-- // Trocando Classe -->
+	<div id="mensagem" class="estilo1">Modificando a classe do elemento</div>
+	<hr>
+	<button type="button" onclick="modificaClasse()">Aplicar classe</button>
+		
+	</div>
+</body>
+</html>
